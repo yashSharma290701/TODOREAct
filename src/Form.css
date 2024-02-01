@@ -1,0 +1,36 @@
+.MainArea{
+display: flex;
+}
+.MainArea input{
+    width: 60%;
+    margin-left: 4rem;
+    margin-top: 4rem;
+    border-radius: 12px;
+    height: 3rem;
+}
+.MainArea Button{
+    margin-left: 4rem;
+    margin-top: 4rem;
+    border-radius: 12px;
+}
+.listItems{
+    display:  flex;
+    justify-content: space-between;
+    list-style: none;
+    height: 3rem;
+    background-color: aqua;
+    width: 80%;
+    margin-top: 2rem;
+    border-radius: 12px;
+
+}
+.listItems Button{
+    height: 2rem;
+    margin-top: 0.2rem;
+    margin-right: 1rem;
+}
+.listItems p{
+    height: 2rem;
+    margin-top: 0.2rem;
+    margin-right: 2rem;
+}
